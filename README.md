@@ -169,7 +169,7 @@ I created two versions of the dashboard during the project.
 
 ### Version 1 — Initial Analytical Dashboard
 
-[📊 View Dashboard](https://github.com/Roshbydah-07/Student-Mental-Health-Academic-Pressure-Analysis/blob/main/First%20dashboard%20of%20students%20mental%20health.png)The first dashboard focused mainly on exploring and presenting the analysis.
+[📊 View First Dashboard](https://github.com/Roshydah-07/Student-Mental-Health-Academic-Pressure-Analysis/blob/main/First%20dashboard%20of%20students%20mental%20health.png)The first dashboard focused mainly on exploring and presenting the analysis.
 
 It included:
 
