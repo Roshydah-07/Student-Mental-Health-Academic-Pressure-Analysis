@@ -183,6 +183,7 @@ It included:
 
 ### Version 2 — Refined Dashboard
 
+[📊 View Final Dashboard](https://github.com/Roshydah-07/Student-Mental-Health-Academic-Pressure-Analysis/blob/main/F%20Second%20dashboard%20of%20students%20mental%20health.png)
 After reviewing the first version, I improved the dashboard to make it more suitable for presentation.
 
 The improvements included:
