@@ -167,10 +167,9 @@ I compared stress frequency across different age groups to identify patterns in 
 
 I created two versions of the dashboard during the project.
 
-### Version 2 — Refined Dashboard
+### Version 1 — Initial Analytical Dashboard
 
-[📊 View Final Dashboard](https://github.com/Roshydah-07/Student-Mental-Health-Academic-Pressure-Analysis/blob/main/F%20Second%20dashboard%20of%20students%20mental%20health.png)
-The first dashboard focused mainly on exploring and presenting the analysis.
+[📊 View Dashboard](https://github.com/Roshbydah-07/Student-Mental-Health-Academic-Pressure-Analysis/blob/main/First%20dashboard%20of%20students%20mental%20health.png)The first dashboard focused mainly on exploring and presenting the analysis.
 
 It included:
 
